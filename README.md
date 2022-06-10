@@ -1,6 +1,6 @@
 # vue-sample
 
-> vue-sample
+> vue 2.0 demo
 
 ## Build Setup
 
